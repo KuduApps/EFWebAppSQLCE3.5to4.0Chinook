@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chinook.Data", "Chinook.Data\Chinook.Data.csproj", "{1741D1ED-F14E-4DAB-85EF-5991C9CD8713}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chinook.Model", "Chinook.Model\Chinook.Model.csproj", "{4C577E26-1C98-432E-A0D7-EDD45A532E0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chinook.Repository", "Chinook.Repository\Chinook.Repository.csproj", "{ED2DF1EA-2087-4303-9069-E1EEB7122B4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chinook.UI", "Chinook.UI\Chinook.UI.csproj", "{8B1734CE-42D6-4EE1-9961-BD714689A274}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1741D1ED-F14E-4DAB-85EF-5991C9CD8713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1741D1ED-F14E-4DAB-85EF-5991C9CD8713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1741D1ED-F14E-4DAB-85EF-5991C9CD8713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1741D1ED-F14E-4DAB-85EF-5991C9CD8713}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C577E26-1C98-432E-A0D7-EDD45A532E0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C577E26-1C98-432E-A0D7-EDD45A532E0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C577E26-1C98-432E-A0D7-EDD45A532E0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C577E26-1C98-432E-A0D7-EDD45A532E0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED2DF1EA-2087-4303-9069-E1EEB7122B4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED2DF1EA-2087-4303-9069-E1EEB7122B4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED2DF1EA-2087-4303-9069-E1EEB7122B4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED2DF1EA-2087-4303-9069-E1EEB7122B4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B1734CE-42D6-4EE1-9961-BD714689A274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B1734CE-42D6-4EE1-9961-BD714689A274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B1734CE-42D6-4EE1-9961-BD714689A274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B1734CE-42D6-4EE1-9961-BD714689A274}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
